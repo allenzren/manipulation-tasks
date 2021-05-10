@@ -11,7 +11,7 @@ A list of manipulation tasks I found from papers:
 8. [Sort cubes](https://www.ri.cmu.edu/publications/large-scale-multi-object-rearrangement/)
 9. Put mug on a shelf
 10. Turn valve
-11. Open door
+11. Open door/bottle
 12. Hammer a nail
 13. Bin packing
 14. Assembly (IKEA, ...)
@@ -21,3 +21,5 @@ A list of manipulation tasks I found from papers:
 18. Mixing, scooping
 19. In-hand
 20. Rope, fabric (Seita)
+21. Cutting cucumber
+22. Writing on whiteboard
